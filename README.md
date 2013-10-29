@@ -1,6 +1,6 @@
-Fucking Block Syntax
+Fucking Lambda Syntax
 =================
 
-Because syntax is hard.
+Because syntax doesn't have to be so hard.
 
-http://fuckingblocksyntax.com
+http://fuckinglambdasyntax.com
